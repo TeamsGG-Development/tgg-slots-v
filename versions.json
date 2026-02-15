@@ -1,0 +1,34 @@
+{
+    "tgg-slots-server": {
+        "version": "1.0.0",
+        "changelog": {
+            "1.0.0": "Initial release"
+        }
+    },
+    "tgg-slots-lucky-fruits": {
+        "version": "1.0.0",
+        "changelog": {
+            "1.0.0": "Initial release"
+        }
+    },
+    "tgg-slots-fruit-cocktail": {
+        "version": "1.0.0",
+        "changelog": {
+            "1.0.0": "Initial release"
+        }
+    },
+    "tgg-slots-orbit": {
+        "version": "1.0.0",
+        "changelog": {
+            "1.0.0": "Initial release"
+        }
+    },
+    "tgg-slots-plinko": {
+        "version": "1.0.0",
+        "changelog": {
+            "1.0.0": "Initial release"
+        }
+    },
+    "docs": "https://docs.teamsgg.dev/",
+    "discordLink": "https://discord.gg/teamsgg"
+}
