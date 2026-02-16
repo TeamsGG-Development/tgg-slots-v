@@ -1,33 +1,40 @@
 {
     "tgg-slots-server": {
         "version": "1.0.0",
+        "last_supported_version": "1.0.0",
+        "last_supported_version_date": "2026-02-15",
         "changelog": {
             "1.0.0": "Initial release"
         }
     },
     "tgg-slots-lucky-fruits": {
-        "version": "1.0.3",
+        "version": "1.0.0",
+        "last_supported_version": "1.0.0",
+        "last_supported_version_date": "2026-02-15",
         "changelog": {
-        "1.0.0": "Initial release",
-        "1.0.1": "Fixed reel strip edge case on bonus spin",
-        "1.0.2": "Adjusted RTP calibration for fruit symbols. Adjusted RTP calibration for fruit symbols. Adjusted RTP calibration for fruit symbols.",
-        "1.0.3": "Added version check and configurable update warnings"
-    }
+            "1.0.0": "Initial release"
+        }
     },
     "tgg-slots-fruit-cocktail": {
         "version": "1.0.0",
+        "last_supported_version": "1.0.0",
+        "last_supported_version_date": "2026-02-15",
         "changelog": {
             "1.0.0": "Initial release"
         }
     },
     "tgg-slots-orbit": {
         "version": "1.0.0",
+        "last_supported_version": "1.0.0",
+        "last_supported_version_date": "2026-02-15",
         "changelog": {
             "1.0.0": "Initial release"
         }
     },
     "tgg-slots-plinko": {
         "version": "1.0.0",
+        "last_supported_version": "1.0.0",
+        "last_supported_version_date": "2026-02-15",
         "changelog": {
             "1.0.0": "Initial release"
         }
