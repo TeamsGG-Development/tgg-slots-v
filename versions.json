@@ -1,42 +1,47 @@
 {
     "tgg-slots-server": {
-        "version": "1.0.0",
-        "last_supported_version": "1.0.0",
-        "last_supported_version_date": "2026-02-18",
+        "version": "1.1.0",
+        "last_supported_version": "1.1.0",
+        "last_supported_version_date": "2026-03-06",
         "changelog": {
-            "1.0.0": "Initial release"
+            "1.0.0": "Initial release",
+            "1.1.0": "Performance improvements. Synced animations"
         }
     },
     "tgg-slots-lucky-fruits": {
-        "version": "1.0.0",
-        "last_supported_version": "1.0.0",
-        "last_supported_version_date": "2026-02-15",
+        "version": "1.0.2",
+        "last_supported_version": "1.0.2",
+        "last_supported_version_date": "2026-03-06",
         "changelog": {
-            "1.0.0": "Initial release"
+            "1.0.0": "Initial release",
+            "1.0.2": "Fixed focus issues"
         }
     },
     "tgg-slots-fruit-cocktail": {
-        "version": "1.0.0",
-        "last_supported_version": "1.0.0",
-        "last_supported_version_date": "2026-02-15",
+        "version": "1.0.2",
+        "last_supported_version": "1.0.2",
+        "last_supported_version_date": "2026-03-06",
         "changelog": {
-            "1.0.0": "Initial release"
+            "1.0.0": "Initial release",
+            "1.0.2": "Fixed focus issues"
         }
     },
     "tgg-slots-orbit": {
-        "version": "1.0.0",
-        "last_supported_version": "1.0.0",
-        "last_supported_version_date": "2026-02-15",
+        "version": "1.0.2",
+        "last_supported_version": "1.0.2",
+        "last_supported_version_date": "2026-03-06",
         "changelog": {
-            "1.0.0": "Initial release"
+            "1.0.0": "Initial release",
+            "1.0.2": "Fixed focus issues"
         }
     },
     "tgg-slots-plinko": {
-        "version": "1.0.0",
-        "last_supported_version": "1.0.0",
-        "last_supported_version_date": "2026-02-15",
+        "version": "1.0.2",
+        "last_supported_version": "1.0.2",
+        "last_supported_version_date": "2026-03-06",
         "changelog": {
-            "1.0.0": "Initial release"
+            "1.0.0": "Initial release",
+            "1.0.2": "Fixed focus issues"
         }
     },
     "docs": "https://docs.teamsgg.dev/",
