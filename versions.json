@@ -1,13 +1,14 @@
 {
   "tgg-slots-server": {
-    "version": "1.5.0",
-    "last_supported_version": "1.5.0",
+    "version": "1.5.1",
+    "last_supported_version": "1.5.1",
     "last_supported_version_date": "2026-04-13",
     "changelog": {
       "1.0.0": "Initial release",
       "1.1.0": "Performance improvements. Synced animations",
       "1.4.0": "YSeries phone slot play support; ESX deposit/withdraw fix.",
-      "1.5.0": "Account ranking and daily withdrawal caps; admin transaction logs; auto-sign; wallet/reconciliation and metrics; security hardening."
+      "1.5.0": "Account ranking and daily withdrawal caps; admin transaction logs; auto-sign; wallet/reconciliation and metrics; security hardening.",
+      "1.5.1": "Unlocked `config.ranks.lua` for tuning the withdraw limits"
     }
   },
   "tgg-slots-lucky-fruits": {
