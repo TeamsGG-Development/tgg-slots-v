@@ -1,6 +1,6 @@
 {
   "tgg-slots-server": {
-    "version": "1.8.0",
+    "version": "1.14.1",
     "last_supported_version": "1.8.0",
     "last_supported_version_date": "2026-10-11",
     "changelog": {
@@ -14,7 +14,8 @@
       "1.6.2": "Placement model bottom offset and locked model swap.",
       "1.6.3": "Dynamic lobby theme and hero banner; venue layout custom directory migration.",
       "1.7.0": "Customer release — full casino platform with venue management, table games, slots, admin tools, and lobby enhancements.",
-      "1.8.0": "Admin session analytics; cashier sphere offset, radius, and preview ped adoption; player death guard and deposit callback fixes; table-game settings apply after resource restart; default table betting time 20s; reconcile stale online player presence on admin refresh."
+      "1.8.0": "Admin session analytics; cashier sphere offset, radius, and preview ped adoption; player death guard and deposit callback fixes; table-game settings apply after resource restart; default table betting time 20s; reconcile stale online player presence on admin refresh.",
+      "1.14.1": "Editable external banking bridges with okokBanking support; society deposits, owner withdrawals and upkeep; durable payment journals, casino-side reservations, recovery and admin reconciliation."
     }
   },
   "tgg-slots-lucky-fruits": {
